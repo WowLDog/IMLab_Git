@@ -1,0 +1,21 @@
+\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:01)     Journal start - Thu Nov 02 21:25:21 2017
+\t (00:00:01)         Host=DESKTOP-9H8V99M User=Dawn Pid=9912 CPUs=8
+\t (00:00:01) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe F:\IMLab_Git\AllegroLib\Packages\Common\SW6X6.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: F:/IMLab_Git/AllegroLib/Packages/Common/SW6X6.dra
+\t (00:00:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:03) trapsize 694
+\i (00:00:03) trapsize 682
+\i (00:00:03) trapsize 696
+\t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:03) trapsize 615
+\t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:03) trapsize 615
+\i (00:00:05) save_as 
+\i (00:00:11) fillin "SW600X600.dra"
+\t (00:00:11) Symbol 'sw600x600.psm' created.
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Thu Nov 02 21:25:34 2017

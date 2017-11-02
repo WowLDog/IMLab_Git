@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:01)     Journal start - Wed Nov 01 20:33:44 2017
+\t (00:00:01)         Host=DESKTOP-9H8V99M User=Dawn Pid=13332 CPUs=8
+\t (00:00:01) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: F:/IMLab_Git/AllegroLib/Flash/FC1R52W1R82.dra
+\i (00:00:03) trapsize 347
+\i (00:00:03) trapsize 341
+\i (00:00:03) trapsize 348
+\i (00:00:03) trapsize 308
+\i (00:00:03) trapsize 308
+\i (00:00:05) new 
+\i (00:00:36) newdrawfillin "SW6X6.dra" "Package Symbol"
+\t (00:00:36)     Journal end - Wed Nov 01 20:34:19 2017
