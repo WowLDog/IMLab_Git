@@ -1,1 +1,1 @@
-SW600X600.dra
+PBS800X800.dra
