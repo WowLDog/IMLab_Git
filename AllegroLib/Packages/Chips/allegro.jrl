@@ -1,19 +1,31 @@
 \t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:00)     Journal start - Fri Nov 03 21:59:13 2017
-\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=6952 CPUs=8
-\t (00:00:00) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe F:\IMLab_Git\AllegroLib\Packages\Chips\SOT223.dra
+\t (00:00:00)     Journal start - Sat Nov 04 15:58:03 2017
+\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=14352 CPUs=8
+\t (00:00:00) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: F:/IMLab_Git/AllegroLib/Packages/Chips/SOT223.dra
-\t (00:00:02) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:00:02) trapsize 810
-\i (00:00:02) trapsize 770
-\i (00:00:02) trapsize 814
-\i (00:00:02) trapsize 772
-\t (00:00:02) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:00:02) trapsize 622
-\t (00:00:02) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:00:02) trapsize 622
-\i (00:28:54) exit 
-\t (00:28:54)     Journal end - Fri Nov 03 22:28:07 2017
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 1551
+\i (00:00:01) trapsize 1485
+\i (00:00:01) trapsize 1562
+\i (00:00:01) trapsize 1182
+\i (00:00:01) trapsize 1182
+\i (00:00:03) trapsize 568
+\i (00:00:04) new 
+\i (00:00:11) newdrawfillin "FC135.dra" "Package Symbol"
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 1046
+\i (00:00:11) trapsize 1046
+\i (00:00:15) prmed 
+\i (00:00:16) setwindow form.prmedit
+\i (00:00:16) FORM prmedit design  
+\i (00:00:18) FORM prmedit units Millimeter 
+\e (00:00:18) Change may cause round-off; run dbcheck.
+\i (00:00:22) FORM prmedit x -5.0000 
+\i (00:00:28) FORM prmedit cancel  
+\i (00:00:29) setwindow pcb
+\i (00:00:29) new 
+\e (00:00:29) Do you want to save the changes you made to FC135.dra?
+\i (00:00:30) fillin no 
+\i (00:00:41) newdrawfillin "FC135.dra" "Package Symbol"
+\t (00:00:41)     Journal end - Sat Nov 04 15:58:45 2017

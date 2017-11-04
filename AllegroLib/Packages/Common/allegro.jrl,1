@@ -1,6 +1,6 @@
 \t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:00)     Journal start - Fri Nov 03 21:05:17 2017
-\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=9236 CPUs=8
+\t (00:00:00)     Journal start - Fri Nov 03 21:07:00 2017
+\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=12328 CPUs=8
 \t (00:00:00) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe F:\IMLab_Git\AllegroLib\Packages\Common\SOT23.dra
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
@@ -15,5 +15,5 @@
 \i (00:00:02) trapsize 622
 \t (00:00:02) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
 \i (00:00:02) trapsize 622
-\i (00:00:56) exit 
-\t (00:00:56)     Journal end - Fri Nov 03 21:06:13 2017
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Fri Nov 03 21:07:05 2017
