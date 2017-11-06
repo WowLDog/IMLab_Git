@@ -1,30 +1,30 @@
 \t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:00)     Journal start - Sat Nov 04 15:59:33 2017
-\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=12280 CPUs=8
+\t (00:00:00)     Journal start - Mon Nov 06 22:19:38 2017
+\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=5004 CPUs=8
 \t (00:00:00) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
-\i (00:00:03) setwindow form.padedit
-\i (00:00:03) pse_new 
-\i (00:00:16) fillin "smd1r00x1r80.pad"
-\i (00:00:18) FORM padedit units Millimeter 
-\i (00:00:19) fillin yes 
-\w (00:00:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:21) FORM padedit layers  
-\i (00:00:21) FORM padedit single YES 
-\i (00:00:22) FORM padedit grid row begin_layer 
-\i (00:00:26) FORM padedit geometry Octagon 
-\i (00:00:27) FORM padedit geometry Rectangle 
-\i (00:00:30) FORM padedit width 1 
-\i (00:00:31) FORM padedit height 1.8 
-\i (00:00:33) FORM padedit grid row soldermask_top 
-\i (00:00:36) FORM padedit geometry Rectangle 
-\i (00:00:40) FORM padedit width 1.2 
-\i (00:00:42) FORM padedit height 2.0 
-\i (00:00:43) FORM padedit grid row pastemask_top 
-\i (00:00:46) FORM padedit width 1 
-\i (00:00:49) FORM padedit geometry Rectangle 
-\i (00:00:52) FORM padedit width 1 
-\i (00:00:53) FORM padedit height 1.8 
-\i (00:00:56) pse_save 
-\i (00:00:57) pse_exit
-\t (00:00:57)     Journal end - Sat Nov 04 16:00:31 2017
+\i (00:00:12) setwindow form.padedit
+\i (00:00:12) pse_new 
+\i (00:00:29) fillin "smd1r50x2r40.pad"
+\i (00:00:31) FORM padedit units Millimeter 
+\i (00:00:32) fillin yes 
+\w (00:00:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:33) FORM padedit layers  
+\i (00:00:36) FORM padedit single YES 
+\i (00:00:40) FORM padedit geometry Rectangle 
+\i (00:00:44) FORM padedit width 1.5 
+\i (00:00:47) FORM padedit height 2.4 
+\i (00:00:49) FORM padedit grid row soldermask_top 
+\i (00:00:53) FORM padedit geometry Rectangle 
+\i (00:01:32) FORM padedit width 1.7 
+\i (00:01:35) FORM padedit height 2.6 
+\i (00:01:37) FORM padedit grid row pastemask_top 
+\i (00:01:41) FORM padedit x_offset 1.0.0000 
+\w (00:01:41) User units conversion failed.
+\i (00:01:42) FORM padedit geometry Rectangle 
+\i (00:01:45) FORM padedit width 1.5 
+\i (00:01:46) FORM padedit height 2.4 
+\i (00:01:49) pse_save 
+\i (00:01:50) FORM padedit crossbox YES 
+\i (00:01:51) pse_exit
+\t (00:01:51)     Journal end - Mon Nov 06 22:21:30 2017

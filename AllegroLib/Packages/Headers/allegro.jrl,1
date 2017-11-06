@@ -1,0 +1,18 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Sat Nov 04 17:53:04 2017
+\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=6416 CPUs=8
+\t (00:00:00) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: F:/IMLab_Git/AllegroLib/Packages/Headers/Header10x2.dra
+\i (00:00:02) trapsize 2083
+\i (00:00:02) trapsize 2045
+\i (00:00:02) trapsize 2089
+\i (00:00:02) trapsize 1845
+\i (00:00:02) trapsize 1845
+\i (00:00:09) trapsize 1866
+\i (00:00:10) trapsize 896
+\i (00:00:12) new 
+\i (00:00:38) newdrawfillin "TO18.dra" "Package Symbol"
+\t (00:00:38)     Journal end - Sat Nov 04 17:53:41 2017
