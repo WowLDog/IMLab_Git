@@ -1,15 +1,221 @@
-\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:01)     Journal start - Sat Nov 04 18:18:30 2017
-\t (00:00:01)         Host=DESKTOP-9H8V99M User=Dawn Pid=5344 CPUs=8
-\t (00:00:01) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:01) Opening existing design...
-\d (00:00:01) Design opened: F:/IMLab_Git/AllegroLib/Packages/Headers/Header10x2.dra
-\i (00:00:01) trapsize 2083
-\i (00:00:01) trapsize 2045
-\i (00:00:01) trapsize 2089
-\i (00:00:02) trapsize 1845
-\i (00:00:02) trapsize 1845
-\i (00:00:02) exit 
-\t (00:00:02)     Journal end - Sat Nov 04 18:18:31 2017
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Tue Nov 07 21:58:38 2017
+\t (00:00:03)         Host=DESKTOP-9H8V99M User=Dawn Pid=14608 CPUs=8
+\t (00:00:03) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/IMLab_Git/AllegroLib/Packages/Headers/HEADER8X1.dra
+\t (00:00:04) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:00:04) trapsize 1388
+\i (00:00:04) trapsize 1363
+\i (00:00:04) trapsize 1393
+\t (00:00:05) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:05) trapsize 1230
+\t (00:00:05) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:05) trapsize 1230
+\i (00:00:07) add pin 
+\i (00:00:10) setwindow form.mini
+\i (00:00:10) FORM mini pad_browse  
+\i (00:00:12) fillin "Thc1r82d1r02s"
+\e (00:00:12) ERROR(SPMHDB-274): Unable to load flash symbol FC1R52W1R82 (Check PSMPATH setting for this symbol).
+\e (00:00:12) ERROR(SPMHAP-3): Problem loading 'Thc1r82d1r02s.pad'.
+\i (00:00:14) setwindow pcb
+\i (00:00:14) pick grid -0.3259 0.6273
+\t (00:00:14) last pick:  -0.3302 0.6350
+\e (00:00:14) ERROR(SPMHAP-2): No padstack specified.
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -0.3259 0.6273
+\i (00:00:15) trapsize 1230
+\i (00:01:36) enved 
+\i (00:01:40) setwindow form.prfedit
+\i (00:01:40) FORM prfedit treelist  Library Paths 
+\i (00:01:42) FORM prfedit padpath  
+\i (00:01:46) FORM prfedit apply  
+\i (00:01:48) FORM prfedit done  
+\i (00:02:18) setwindow pcb
+\i (00:02:18) add pin 
+\t (00:02:18) Exiting from Add Pin.
+\i (00:02:21) setwindow form.mini
+\i (00:02:21) FORM mini pad_browse  
+\i (00:02:23) fillin "Thc1r82d1r02s"
+\e (00:02:23) ERROR(SPMHDB-274): Unable to load flash symbol FC1R52W1R82 (Check PSMPATH setting for this symbol).
+\e (00:02:23) ERROR(SPMHAP-3): Problem loading 'Thc1r82d1r02s.pad'.
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in 2.6753 -0.8487
+\t (00:02:26) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:02:26) trapsize 615
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in -1.1624 -0.8487
+\i (00:02:26) trapsize 308
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in -3.0812 -0.8487
+\i (00:02:26) trapsize 154
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out -3.0812 -0.8487
+\i (00:02:26) trapsize 308
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out -3.0812 -0.8487
+\i (00:02:26) trapsize 615
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out -1.1624 -0.8487
+\t (00:02:27) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:27) trapsize 1230
+\i (00:03:17) enved 
+\i (00:03:24) setwindow form.prfedit
+\i (00:03:24) FORM prfedit psmpath  
+\i (00:03:38) FORM prfedit apply  
+\i (00:03:38) FORM prfedit done  
+\i (00:03:40) setwindow pcb
+\i (00:03:40) add pin 
+\t (00:03:40) Exiting from Add Pin.
+\i (00:03:43) setwindow form.mini
+\i (00:03:43) FORM mini pad_browse  
+\i (00:03:46) fillin "Thc1r82d1r02s"
+\t (00:03:46) Using 'THC1R82D1R02S.pad'.
+\i (00:04:22) setwindow pcb
+\i (00:04:22) pick 0 8.89 
+\t (00:04:22) last pick:  0.0000 8.8900
+\t (00:04:22) Using 'THC1R82D1R02S.pad'.
+\i (00:04:23) zoom out 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom out 1.2977 4.7110
+\i (00:04:23) trapsize 1230
+\i (00:04:23) zoom out 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom out 1.1993 4.7602
+\i (00:04:23) trapsize 1230
+\i (00:04:25) prepopup 0.6581 6.7036
+\i (00:04:25) cancel 
+\t (00:04:25) Exiting from Add Pin.
+\i (00:04:28) prmed 
+\i (00:04:29) setwindow form.prmedit
+\i (00:04:29) FORM prmedit design  
+\i (00:04:33) FORM prmedit y -15.0000 
+\i (00:04:35) FORM prmedit height 30.0000 
+\i (00:04:35) FORM prmedit apply  
+\i (00:04:35) setwindow pcb
+\i (00:04:35) trapsize 1230
+\i (00:04:36) setwindow form.prmedit
+\i (00:04:36) FORM prmedit done  
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 2.4539 -0.1353
+\t (00:04:36) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:04:36) trapsize 1845
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 6.1070 -0.0922
+\i (00:04:36) trapsize 1845
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 6.0332 0.1292
+\i (00:04:36) trapsize 1845
+\i (00:04:39) add pin 
+\i (00:04:42) setwindow form.mini
+\i (00:04:42) FORM mini pad_browse  
+\i (00:04:45) fillin "Thc1r82d1r02s"
+\t (00:04:45) Using 'THC1R82D1R02S.pad'.
+\i (00:04:50) setwindow pcb
+\i (00:04:50) pick 0 8.89 
+\t (00:04:50) last pick:  0.0000 8.8900
+\t (00:04:50) Using 'THC1R82D1R02S.pad'.
+\i (00:04:52) prepopup 1.0517 4.7048
+\i (00:04:52) done 
+\t (00:04:52) Exiting from Add Pin.
+\i (00:04:59) add pin 
+\t (00:04:59) Using 'THC1R82D1R02S.pad'.
+\i (00:05:02) setwindow form.mini
+\i (00:05:02) FORM mini pad_browse  
+\i (00:05:07) fillin "Thc1r82d1r02c"
+\t (00:05:07) Using 'THC1R82D1R02C.pad'.
+\i (00:05:12) FORM mini y_count 7 
+\i (00:05:15) FORM mini y_spacing 2.5400 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) pick 0 6.35 
+\t (00:05:19) last pick:  0.0000 6.3500
+\t (00:05:19) Using 'THC1R82D1R02C.pad'.
+\i (00:05:21) prepopup 2.7491 5.7749
+\i (00:05:21) done 
+\t (00:05:21) Exiting from Add Pin.
+\i (00:05:26) add line 
+\i (00:05:30) setwindow form.mini
+\i (00:05:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) pick -1.27 10.16 
+\t (00:05:43) last pick:  -1.2700 10.1600
+\i (00:05:47) pick l -10.16 
+\t (00:05:47) last pick:  -1.2700 -10.1600
+\i (00:05:50) pick 1.27 
+\t (00:05:50) last pick:  1.2700 -10.1600
+\i (00:05:53) pick l 10.16 
+\t (00:05:53) last pick:  1.2700 10.1600
+\i (00:06:00) pick -1.27 
+\t (00:06:00) last pick:  -1.2700 10.1600
+\i (00:06:01) prepopup 4.3727 7.5830
+\i (00:06:02) done 
+\i (00:06:06) add rect 
+\i (00:06:09) setwindow form.mini
+\i (00:06:09) FORM mini subclass ASSEMBLY_TOP 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) pick -1.27 10.16 
+\t (00:06:15) last pick:  -1.2700 10.1600
+\i (00:06:19) pick 1.27 -10.16 
+\t (00:06:19) last pick:  1.2700 -10.1600
+\i (00:06:20) prepopup 3.7454 3.6347
+\i (00:06:20) done 
+\i (00:06:22) add rect 
+\i (00:06:27) setwindow form.mini
+\i (00:06:27) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) pick -1.27 10.16 
+\t (00:06:35) last pick:  -1.2700 10.1600
+\i (00:06:39) pick 1.27 -10.16 
+\t (00:06:39) last pick:  1.2700 -10.1600
+\i (00:06:41) prepopup 1.9373 10.8303
+\i (00:06:41) done 
+\i (00:06:46) label refdes 
+\t (00:06:46) Pick text location.
+\i (00:06:50) pick grid -0.9779 0.0185
+\t (00:06:50) last pick:  -0.9652 0.0254
+\t (00:06:50) Enter text string.
+\i (00:06:52) setwindow pcb
+\i (00:06:52) pick -0.9652 0.0254
+\i (00:06:53) prepopup 0.8303 12.8598
+\i (00:06:53) done 
+\i (00:06:55) label refdes 
+\t (00:06:55) Pick text location.
+\i (00:06:58) setwindow form.mini
+\i (00:06:58) FORM mini subclass SILKSCREEN_TOP 
+\i (00:06:59) setwindow pcb
+\i (00:06:59) pick grid -1.2362 10.7565
+\t (00:06:59) last pick:  -1.2446 10.7442
+\t (00:06:59) Enter text string.
+\i (00:07:01) setwindow pcb
+\i (00:07:01) pick -1.2446 10.7442
+\i (00:07:02) prepopup -0.3875 13.2288
+\i (00:07:03) done 
+\i (00:07:09) save 
+\i (00:07:10) fillin yes 
+\t (00:07:11) Symbol 'header8x1.psm' created.
+\i (00:07:12) open 
+\i (00:07:29) fillin "F:\WorkSpace\Annecy\Libra\Libra.brd"
+\i (00:07:29) cd "F:\WorkSpace\Annecy\Libra"
+\t (00:07:29) Opening existing design...
+\t (00:07:29) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:07:30) trapsize 39
+\i (00:07:30) trapsize 38
+\i (00:07:30) trapsize 39
+\t (00:07:30) Grids are drawn 32.0, 32.0 apart for enhanced viewability.
+\t (00:07:30) Grids are drawn 4.0, 4.0 apart for enhanced viewability.
+\i (00:07:30) trapsize 39
+\t (00:07:30)     Journal end - Tue Nov 07 22:06:05 2017

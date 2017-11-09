@@ -1,21 +1,20 @@
 \t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:01)     Journal start - Mon Nov 06 22:34:30 2017
-\t (00:00:01)         Host=DESKTOP-9H8V99M User=Dawn Pid=6748 CPUs=8
-\t (00:00:01) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe F:\IMLab_Git\AllegroLib\Packages\Chips\WSON80X80.dra
+\t (00:00:01)     Journal start - Tue Nov 07 17:59:28 2017
+\t (00:00:01)         Host=DESKTOP-9H8V99M User=Dawn Pid=9468 CPUs=8
+\t (00:00:01) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
 \t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: F:/IMLab_Git/AllegroLib/Packages/Chips/WSON80X80.dra
+\d (00:00:03) Design opened: F:/IMLab_Git/AllegroLib/Packages/Chips/LGA30X50.dra
 \t (00:00:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:00:03) trapsize 694
-\i (00:00:03) trapsize 682
-\i (00:00:03) trapsize 696
+\i (00:00:03) trapsize 810
+\i (00:00:03) trapsize 770
+\i (00:00:03) trapsize 814
+\i (00:00:03) trapsize 772
 \t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:00:03) trapsize 615
-\t (00:00:04) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:00:04) trapsize 615
-\i (00:00:06) save_as 
-\i (00:00:20) fillin "WSON310X310.dra"
-\t (00:00:20) Symbol 'wson310x310.psm' created.
-\i (00:00:23) exit 
-\t (00:00:23)     Journal end - Mon Nov 06 22:34:52 2017
+\i (00:00:03) trapsize 622
+\t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:00:03) trapsize 622
+\i (00:00:05) new 
+\i (00:00:31) newdrawfillin "Libra.dra" "Package Symbol"
+\t (00:00:31)     Journal end - Tue Nov 07 17:59:59 2017

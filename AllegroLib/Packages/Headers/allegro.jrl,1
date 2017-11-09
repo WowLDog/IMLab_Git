@@ -1,18 +1,94 @@
 \t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:00)     Journal start - Sat Nov 04 17:53:04 2017
-\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=6416 CPUs=8
+\t (00:00:00)     Journal start - Tue Nov 07 21:54:47 2017
+\t (00:00:00)         Host=DESKTOP-9H8V99M User=Dawn Pid=5836 CPUs=8
 \t (00:00:00) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Design opened: F:/IMLab_Git/AllegroLib/Packages/Headers/Header10x2.dra
-\i (00:00:02) trapsize 2083
-\i (00:00:02) trapsize 2045
-\i (00:00:02) trapsize 2089
-\i (00:00:02) trapsize 1845
-\i (00:00:02) trapsize 1845
-\i (00:00:09) trapsize 1866
-\i (00:00:10) trapsize 896
-\i (00:00:12) new 
-\i (00:00:38) newdrawfillin "TO18.dra" "Package Symbol"
-\t (00:00:38)     Journal end - Sat Nov 04 17:53:41 2017
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 641
+\i (00:00:02) trapsize 629
+\i (00:00:02) trapsize 643
+\i (00:00:02) trapsize 568
+\i (00:00:02) trapsize 1046
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 5792.1 11375.2
+\i (00:00:06) trapsize 1046
+\i (00:00:09) new 
+\i (00:00:20) newdrawfillin "HEADER8X1.dra" "Package Symbol"
+\t (00:00:20) Starting new design...
+\i (00:00:20) trapsize 1046
+\i (00:00:20) trapsize 1046
+\i (00:00:23) prmed 
+\i (00:00:24) setwindow form.prmedit
+\i (00:00:24) FORM prmedit design  
+\i (00:00:29) FORM prmedit units Millimeter 
+\e (00:00:29) Change may cause round-off; run dbcheck.
+\i (00:00:33) FORM prmedit x -5.0000 
+\i (00:00:35) FORM prmedit y -10.0000 
+\i (00:00:36) FORM prmedit width 10.0000 
+\i (00:00:38) FORM prmedit height 20.0000 
+\i (00:00:38) FORM prmedit apply  
+\w (00:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:38) setwindow pcb
+\i (00:00:38) trapsize 1230
+\t (00:00:38) Performing DRC...
+\t (00:00:38) No DRC errors detected.
+\i (00:00:40) setwindow form.prmedit
+\i (00:00:40) FORM prmedit done  
+\i (00:00:43) setwindow pcb
+\i (00:00:43) define grid 
+\t (00:00:43) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:48) setwindow form.grid
+\i (00:00:48) FORM grid non_etch non_etch_x_grids 0.0254 
+\i (00:00:49) FORM grid non_etch non_etch_y_grids 0.0254 
+\i (00:00:49) FORM grid all_etch all_etch_x_grids 0.0254 
+\i (00:00:50) FORM grid all_etch all_etch_y_grids 0.0254 
+\i (00:00:50) FORM grid display YES 
+\i (00:00:51) FORM grid done  
+\t (00:00:51) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:53) setwindow pcb
+\i (00:00:53) add pin 
+\i (00:00:55) setwindow form.mini
+\i (00:00:55) FORM mini pad_browse  
+\i (00:01:01) fillin "Thc1r82d1r02s"
+\e (00:01:01) ERROR(SPMHDB-274): Unable to load flash symbol FC1R52W1R82 (Check PSMPATH setting for this symbol).
+\e (00:01:01) ERROR(SPMHAP-3): Problem loading 'Thc1r82d1r02s.pad'.
+\i (00:01:09) setwindow pcb
+\i (00:01:09) add pin 
+\t (00:01:09) Exiting from Add Pin.
+\i (00:01:14) setwindow form.mini
+\i (00:01:14) FORM mini pad_browse  
+\i (00:01:15) fillin "Smd0r95x0r90"
+\t (00:01:15) Using 'SMD0R95X0R90.pad'.
+\i (00:01:16) setwindow pcb
+\i (00:01:16) prepopup 17.5584 4.0960
+\i (00:01:17) cancel 
+\t (00:01:17) Exiting from Add Pin.
+\i (00:01:19) add pin 
+\i (00:01:25) setwindow form.mini
+\i (00:01:25) FORM mini pad_browse  
+\i (00:01:30) fillin "Thc1r82d1r02c"
+\e (00:01:30) ERROR(SPMHDB-274): Unable to load flash symbol FC1R52W1R82 (Check PSMPATH setting for this symbol).
+\e (00:01:30) ERROR(SPMHAP-3): Problem loading 'Thc1r82d1r02c.pad'.
+\i (00:02:00) setwindow pcb
+\i (00:02:00) add pin 
+\t (00:02:00) Exiting from Add Pin.
+\i (00:02:03) setwindow form.mini
+\i (00:02:03) FORM mini pad_browse  
+\i (00:02:06) fillin "Thc1r82d1r02s"
+\e (00:02:06) ERROR(SPMHDB-274): Unable to load flash symbol FC1R52W1R82 (Check PSMPATH setting for this symbol).
+\e (00:02:06) ERROR(SPMHAP-3): Problem loading 'Thc1r82d1r02s.pad'.
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out -1.5314 -0.3813
+\i (00:02:08) trapsize 1230
+\i (00:02:09) prepopup 0.8057 2.0541
+\i (00:02:10) cancel 
+\t (00:02:10) Exiting from Add Pin.
+\i (00:02:11) exit 
+\e (00:02:11) Do you want to save the changes you made to HEADER8X1.dra?
+\i (00:02:12) fillin yes 
+\e (00:02:12) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\t (00:02:12)     Journal end - Tue Nov 07 21:56:59 2017
