@@ -1,20 +1,24 @@
-\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
-\t (00:00:01)     Journal start - Tue Nov 07 17:59:28 2017
-\t (00:00:01)         Host=DESKTOP-9H8V99M User=Dawn Pid=9468 CPUs=8
-\t (00:00:01) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: F:/IMLab_Git/AllegroLib/Packages/Chips/LGA30X50.dra
-\t (00:00:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:00:03) trapsize 810
-\i (00:00:03) trapsize 770
-\i (00:00:03) trapsize 814
-\i (00:00:03) trapsize 772
-\t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:00:03) trapsize 622
-\t (00:00:03) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:00:03) trapsize 622
-\i (00:00:05) new 
-\i (00:00:31) newdrawfillin "Libra.dra" "Package Symbol"
-\t (00:00:31)     Journal end - Tue Nov 07 17:59:59 2017
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Fri Nov 17 16:22:04 2017
+\t (00:00:03)         Host=DESKTOP-9H8V99M User=Dawn Pid=7096 CPUs=8
+\t (00:00:03) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/IMLab_Git/AllegroLib/Packages/Chips/SOP14P530X1020.dra
+\t (00:00:04) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:00:04) trapsize 1388
+\i (00:00:04) trapsize 1363
+\i (00:00:04) trapsize 1393
+\t (00:00:05) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:05) trapsize 1230
+\t (00:00:05) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:05) trapsize 1230
+\i (00:00:06) open 
+\i (00:00:29) fillin "F:\WorkSpace\Annecy\Libra\Libra.brd"
+\i (00:00:29) cd "F:\WorkSpace\Annecy\Libra"
+\t (00:00:29) Opening existing design...
+\i (00:00:29) trapsize 17
+\t (00:00:29) Grids are drawn 20.0, 20.0 apart for enhanced viewability.
+\i (00:00:29) trapsize 17
+\t (00:00:29)     Journal end - Fri Nov 17 16:22:30 2017

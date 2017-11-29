@@ -8,6 +8,8 @@
       (File ".\chips.olb"
         (Type "Schematic Library"))
       (File ".\headers.olb"
+        (Type "Schematic Library"))
+      (File ".\modules.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\refdesign.dsn"
@@ -29,7 +31,8 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" "f:\imlab_git\capturesch\common.olb")
       (Path "Design Resources" "Library" "f:\imlab_git\capturesch\chips.olb")
-      (Path "Design Resources" "Library" ".\headers.olb")
+      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\headers.olb")
+      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\modules.olb")
       (Select "Design Resources" "f:\imlab_git\capturesch\refdesign.dsn"
          "RefDesigns" "Standard"))
     (HierarchyView)
@@ -39,27 +42,50 @@
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
       (Tab 0))
     (Doc
-      (Type "COrPartDoc")
+      (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1347 52 627")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "1568 648")
-        (Zoom "354"))
-      (Path "F:\IMLab_Git\CaptureSch\Headers.OLB")
-      (Package "JTAG"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 1230 0 575")
+        (Scroll "-35 0")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path "F:\IMLAB_GIT\CAPTURESCH\REFDESIGN.DSN")
+      (Schematic "RefDesigns")
+      (Page "Standard"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1230 0 575")
+        (Placement "44 2 3 -1 -1 -8 -31 182 1477 182 757")
         (Scroll "-205 -10")
         (Zoom "96")
         (Occurrence "/"))
       (Path "F:\IMLAB_GIT\CAPTURESCH\REFDESIGN.DSN")
       (Schematic "RefDesigns")
-      (Page "Standard")))
+      (Page "ACtoDC")))
   (PartMRUSelector
+    (Varistor
+      (FullPartName "Varistor.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
+    (SafetyFuse
+      (FullPartName "SafetyFuse.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
+    (AECapactior
+      (FullPartName "AECapactior.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
+    (Capacitor
+      (FullPartName "Capacitor.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
+    (HLK_5M05
+      (FullPartName "HLK_5M05.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\MODULES.OLB")
+      (DeviceIndex "0"))
+    (CMChoke
+      (FullPartName "CMChoke.Normal")
+      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (DeviceIndex "0"))
     (Header3x2
       (FullPartName "Header3x2.Normal")
       (LibraryName "F:\IMLAB_GIT\CAPTURESCH\HEADERS.OLB")
@@ -124,41 +150,15 @@
       (FullPartName "Xtal.Normal")
       (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
       (DeviceIndex "0"))
-    (Capacitor
-      (FullPartName "Capacitor.Normal")
-      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
-      (DeviceIndex "0"))
     (STM32F103C/D/E_LQFP64
       (FullPartName "STM32F103C/D/E_LQFP64.Normal")
       (LibraryName "F:\IMLAB_GIT\CAPTURESCH\CHIPS.OLB")
-      (DeviceIndex "0"))
-    (AECapactior
-      (FullPartName "AECapactior.Normal")
-      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
       (DeviceIndex "0"))
     (AMS1117
       (FullPartName "AMS1117.Normal")
       (LibraryName "F:\IMLAB_GIT\CAPTURESCH\CHIPS.OLB")
       (DeviceIndex "0"))
-    (SafetyFuse
-      (FullPartName "SafetyFuse.Normal")
-      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
-      (DeviceIndex "0"))
     (PushButtonSwitch
       (FullPartName "PushButtonSwitch.Normal")
       (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
-      (DeviceIndex "0"))
-    (S8550
-      (FullPartName "S8550.Normal")
-      (LibraryName "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
-      (DeviceIndex "0"))
-    (QbreakN
-      (FullPartName "QbreakN.Normal")
-      (LibraryName
-         "H:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
-      (DeviceIndex "0"))
-    (QZP100K
-      (FullPartName "QZP100K.Normal")
-      (LibraryName
-         "H:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\PSPICE\XTAL.OLB")
       (DeviceIndex "0"))))
