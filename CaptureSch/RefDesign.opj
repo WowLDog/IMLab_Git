@@ -25,22 +25,61 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "f:\imlab_git\capturesch\refdesign.dsn")
-      (Path "Design Resources" "f:\imlab_git\capturesch\refdesign.dsn"
-         "RefDesigns")
+      (Path "Design Resources" ".\refdesign.dsn")
+      (Path "Design Resources" ".\refdesign.dsn" "RefDesigns")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\common.olb")
-      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\chips.olb")
-      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\headers.olb")
-      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\modules.olb")
-      (Select "Design Resources" "f:\imlab_git\capturesch\refdesign.dsn"
-         "RefDesigns" "Standard"))
+      (Path "Design Resources" "Library" ".\common.olb")
+      (Select "Design Resources" ".\refdesign.dsn" "RefDesigns" "ACtoDC"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
       (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1425 130 705")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3699 1522")
+        (Zoom "698"))
+      (Path "F:\IMLAB_GIT\CAPTURESCH\MODULES.OLB")
+      (Package "HLK_5M05"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1451 156 731")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5705 2268")
+        (Zoom "1008"))
+      (Path "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (Package "AECapactior"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1477 182 757")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5705 2268")
+        (Zoom "1008"))
+      (Path "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (Package "Capacitor"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1503 208 783")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5467 2240")
+        (Zoom "978"))
+      (Path "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
+      (Package "CMChoke"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
@@ -50,12 +89,12 @@
         (Occurrence "/"))
       (Path "F:\IMLAB_GIT\CAPTURESCH\REFDESIGN.DSN")
       (Schematic "RefDesigns")
-      (Page "Standard"))
+      (Page "STM32"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 182 1477 182 757")
-        (Scroll "-205 -10")
+        (Scroll "-205 0")
         (Zoom "96")
         (Occurrence "/"))
       (Path "F:\IMLAB_GIT\CAPTURESCH\REFDESIGN.DSN")
