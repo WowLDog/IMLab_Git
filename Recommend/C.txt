@@ -1,2 +1,10 @@
+基础资料：
+	书籍：
+		《C Primer》 
+		谭浩强《C程序设计》
+	视频：
+		百度搜索小甲鱼
+
+
 define的用法:
-https://www.cnblogs.com/yezhenhan/archive/2011/11/05/2236973.html
+	https://www.cnblogs.com/yezhenhan/archive/2011/11/05/2236973.html

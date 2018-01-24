@@ -25,11 +25,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\refdesign.dsn")
-      (Path "Design Resources" ".\refdesign.dsn" "RefDesigns")
+      (Path "Design Resources" "f:\imlab_git\capturesch\refdesign.dsn")
+      (Path "Design Resources" "f:\imlab_git\capturesch\refdesign.dsn"
+         "RefDesigns")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\common.olb")
-      (Select "Design Resources" ".\refdesign.dsn" "RefDesigns" "ACtoDC"))
+      (Path "Design Resources" "Library" "f:\imlab_git\capturesch\common.olb")
+      (Select "Design Resources" "Library" "f:\imlab_git\capturesch\common.olb"
+         "AECapactior"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -50,12 +52,12 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1451 156 731")
+        (Placement "44 2 3 -1 -1 -8 -31 156 1451 156 731")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "5705 2268")
-        (Zoom "1008"))
+        (Scroll "1245 255")
+        (Zoom "252"))
       (Path "F:\IMLAB_GIT\CAPTURESCH\COMMON.OLB")
       (Package "AECapactior"))
     (Doc
@@ -93,8 +95,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 182 1477 182 757")
-        (Scroll "-205 0")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1477 182 757")
+        (Scroll "-67 0")
         (Zoom "96")
         (Occurrence "/"))
       (Path "F:\IMLAB_GIT\CAPTURESCH\REFDESIGN.DSN")

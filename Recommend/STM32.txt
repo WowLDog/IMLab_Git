@@ -1,2 +1,15 @@
+基础资料：
+	ST官网：
+		http://www.st.com/content/st_com/zh.html
+	STM中文论坛：
+		http://www.stmcu.com.cn/
+	正点原子-开源电子网（很多人用来学习，网上资料很多）：
+		http://www.openedv.com/
+	安富莱-ARMFLY（他的讲解资料非常规范，很适合初学者能学到更多东西）：
+		http://forum.armfly.com/forum.php  
+	微雪课堂（主要是学习Cubemx的，它里面还有别的一些东西）：
+		http://www.waveshare.net/study/portal.php?mod=list&catid=40
+	
+
 Microsecond delay function for STM32：
-https://kbiva.wordpress.com/2013/03/25/microsecond-delay-function-for-stm32/
+	https://kbiva.wordpress.com/2013/03/25/microsecond-delay-function-for-stm32/

@@ -1,0 +1,28 @@
+\t (00:00:55) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:55)     Journal start - Tue Jan 23 16:33:50 2018
+\t (00:00:55)         Host=DESKTOP-9H8V99M User=Dawn Pid=48484 CPUs=8
+\t (00:00:55) CmdLine= H:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:55) 
+\d (00:00:55) Design opened: F:/IMLab_Git/AllegroLib/Packages/Common/CAPAE660.dra
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 1.2189 0.1866
+\i (00:01:01) trapsize 311
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 1.2190 0.1866
+\i (00:01:01) trapsize 155
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 1.2190 0.1866
+\i (00:01:02) trapsize 311
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 1.2191 0.1867
+\i (00:01:02) trapsize 622
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 1.2189 0.1866
+\i (00:01:02) trapsize 622
+\i (00:06:41) exit 
+\t (00:06:42)     Journal end - Tue Jan 23 16:39:36 2018
